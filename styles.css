@@ -1,0 +1,329 @@
+.top{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: -1.71%;
+  bottom: 1.71%;
+
+  background: #803FB7;
+}
+.logo{
+  position: absolute;
+width: 243px;
+height: 68px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 62px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.navLinks{
+  /* Blog */
+
+
+position: absolute;
+left: 49.19%;
+right: 47.17%;
+top: 4.36%;
+bottom: 89.52%;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 42px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+
+.cardDiv{
+  position: relative;
+width: 1798px;
+height: 556px;
+
+}
+.categText{
+  /* All Events */
+
+
+position: absolute;
+left: 1.28%;
+right: 79.87%;
+top: 0%;
+bottom: 80.76%;
+
+font-family: Overpass;
+font-style: normal;
+font-weight: 900;
+font-size: 70px;
+line-height: 107px;
+text-align: center;
+
+color: #5D2067;
+
+}
+.viewAllText{
+  /* View All */
+
+
+position: absolute;
+left: 86.43%;
+right: 0%;
+top: 44.6%;
+bottom: 45.86%;
+
+font-family: Overpass;
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 61px;
+text-align: center;
+
+color: #A56ED2;
+
+}
+.card{
+  /* card */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(.jpg);
+border-radius: 10px;
+}
+.priceDiv{
+  /* $999 */
+
+
+position: absolute;
+width: 41px;
+height: 21px;
+left: 336px;
+top: 210px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #803FB7;
+
+}
+.cardInfo{
+  position: absolute;
+left: 0%;
+right: 0%;
+top: 63.82%;
+bottom: 0%;
+
+background: #FFFBFB;
+border: 3px solid #803FB7;
+box-sizing: border-box;
+border-radius: 0px 0px 20px 20px;
+}
+.left{
+
+}
+.right{
+
+}
+.date{
+  /* 99 */
+
+
+position: absolute;
+left: 10.12%;
+right: 81.93%;
+top: 72.36%;
+bottom: 19.35%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 28px;
+line-height: 33px;
+text-align: center;
+
+color: rgba(128, 63, 183, 0.81);
+
+}
+.month{
+  /* Aug */
+
+
+position: absolute;
+left: 10.12%;
+right: 77.59%;
+top: 84.42%;
+bottom: 7.29%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 33px;
+text-align: center;
+
+color: rgba(0, 0, 0, 0.78);
+
+}
+.title{
+  /* Event Name */
+
+
+position: absolute;
+left: 48.92%;
+right: 12.77%;
+top: 72.36%;
+bottom: 19.35%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 28px;
+line-height: 33px;
+text-align: center;
+
+color: #5D2067;
+
+}
+.descrip{
+  /* descript */
+
+
+position: absolute;
+left: 48.92%;
+right: 28.67%;
+top: 84.42%;
+bottom: 7.29%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 33px;
+text-align: center;
+letter-spacing: -0.05em;
+
+color: #888888;
+
+}
+.foot{
+  position: absolute;
+width: 2027.46px;
+height: 619.5px;
+left: 2px;
+top: 3108px;
+
+}
+.footHead{
+  /* List your event */
+
+
+position: absolute;
+width: 360px;
+height: 63px;
+left: 810.46px;
+top: 3271.5px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 62px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
+}
+.footText{
+  position: absolute;
+width: 1390px;
+height: 38px;
+left: 319.46px;
+top: 3337.5px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+}
+.abtUs{
+  position: absolute;
+width: 565px;
+height: 202.5px;
+left: 63.46px;
+top: 3473px;
+}
+.smallHeads{
+  font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+}
+.footText1{
+  position: absolute;
+width: 565px;
+height: 152px;
+left: 63.46px;
+top: 3523.5px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 37px;
+text-align: center;
+
+color: #FFFBFB;
+}
+.footText2{
+  position: absolute;
+width: 565px;
+height: 63px;
+left: 809.46px;
+top: 3523.5px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 62px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFBFB;
+
+}
